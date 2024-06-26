@@ -1,4 +1,4 @@
-# First-rep
-This is my first git repository.
+# Sorting-Algorithms-Visualization
+A project showcasing different sorting and other algorithms via simple videos
 <br>
 Author - Utkarsh
